@@ -1,2 +1,2 @@
 # TodoList
-A simple todo list
+A simple todo list app
